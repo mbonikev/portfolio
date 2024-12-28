@@ -65,7 +65,7 @@ function Navbar({showCerts, setShowCerts}) {
         <div className="h-fit flex flex-col bg-orange-200/0 gap-2 w-full max-lg:w-fit max-lg:flex-row">
           <div className="flex items-center gap-2 relative">
             <a
-              href="https://github.com/kevindermot99"
+              href="https://github.com/mbonikev"
               target="_blank"
               className="text-dark_color dark:text-light_color dark:bg-card_color_dark peer bg-[#f2f2f2] active:bg-stone-200 dark:active:bg-[#35353a] w-[44px] min-w-[44px] h-auto flex items-center justify-center text-2xl aspect-square rounded-full"
             >
