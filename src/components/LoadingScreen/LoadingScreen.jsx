@@ -20,9 +20,8 @@ function LoadingScreen() {
         <h1 className={`text-[80px] max-lg:text-4xl font-Custom_m leading-[95px] max-lg:leading-10 max-2xl:text-[60px] max-2xl:leading-[60px] animateHide`}>
           Kevin K. Mbonimpaye
         </h1>
-        <h1 className={`text-[30px] max-lg:text-base max-lg:mt-3 leading-[50px] max-lg:leading-5 flex items-center gap-0 animateHide`}>
-          Full<span className="font-Inter">-</span>stack
-          Developer
+        <h1 className={`text-[30px] font-Custom_r max-lg:text-base max-lg:mt-3 leading-[50px] max-lg:leading-5 flex items-center gap-0 animateHide`}>
+          Full stack developer
         </h1>
       </Fade>
     </div>
