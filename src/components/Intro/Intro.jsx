@@ -39,9 +39,7 @@ function Intro() {
         )}
         {messageFor === expectedVisitors[1] && (
           <>
-            I<SC char={`'`} />m a Full
-            <SC char={`-`} />
-            stack web developer with 3 months of experience, skilled in MERN
+            I<SC char={`'`} />m a Full stack web developer with 3 months of experience, skilled in MERN
             Stack, and committed to creating quality products.
           </>
         )}
