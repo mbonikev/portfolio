@@ -113,10 +113,8 @@ function Home() {
                     Now <SC char={`•`} /> Kigali
                   </h1>
                   <h1 className="text-base text-dark_color/50 dark:text-light_color/50">
-                    Working on the front
-                    <SC char={"-"} />
-                    end design and development of the company
-                    <SC char={"'"} />s platform.
+                    Working as the Front End Engineer, handling design and development of the company
+                    <SC char={"'"} />s Web Application.
                   </h1>
                 </div>
                 <br />
