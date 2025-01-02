@@ -83,9 +83,7 @@ function Home() {
                   <SC char={"-"} />
                   year
                   <SC char={"-"} />
-                  old full
-                  <SC char={"-"} />
-                  stack developer from Rwanda, currently pursuing a Bachelor of
+                  old full stack developer from Rwanda, currently pursuing a Bachelor of
                   Science in Software Engineering at ALU. I started my web
                   development journey in 2020, and over the years, I
                   <SC char={"'"} />
